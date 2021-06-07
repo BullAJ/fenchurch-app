@@ -1,0 +1,10 @@
+# private info
+bungie_api_key.py
+
+# workshop items
+test_*
+
+# output
+__pycache__
+.pyc
+.pdf
